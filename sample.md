@@ -1,6 +1,8 @@
+
 # Sample Output for the cacheing solution
 
 The following shows the sample inputs and outputs to validate the required functionality.
+
 	> m
     	[,1] [,2]
 	[1,]    2    6
